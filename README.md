@@ -1,7 +1,5 @@
-# trust-tron
-A game theory of why &amp; how we trust. This game will reveal why people need trust.
-
 #	             The Evolution of Trust
+A game theory of why &amp; how we trust. This game will reveal why people need trust.
 
 !["The Evolution of Trust"](https://trust-tron.oss-cn-beijing.aliyuncs.com/68747470733a2f2f692e696d6775722e636f6d2f6b6465373630792e706e67.png)
 
